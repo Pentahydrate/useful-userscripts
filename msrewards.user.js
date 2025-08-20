@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Microsoft Rewards 积分自动化赚取
 // @namespace    http://tampermonkey.net/
-// @version      0.5.0
+// @version      0.5.1
 // @description  每次搜索赚取3积分，PC端每日90分上限，移动端每日60分上限。
 // @author       Pentahydrate
 // @match        https://cn.bing.com
