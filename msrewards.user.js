@@ -24,7 +24,7 @@
         searchBaseUrl: 'https://cn.bing.com/search?q=',
         searchParams: '&form=QBLH',
         minDelay: 10000,
-        maxDelay: 15000
+        maxDelay: 60000
     };
 
     // 数据源配置
